@@ -526,4 +526,3 @@ jobs:
 - ✅ **Contributor guide**: เพิ่ม RULES สำหรับโครงสร้างสกิลใหม่ใน `examples/` และวิธีเขียน commit messages
 - ✅ **Cross-platform test**: เพิ่ม job matrix (windows, ubuntu, macos) เพื่อยืนยัน CLI ทำงานครบทุก OS
 - ✅ **Versioning**: ใช้ semver และ tag release `v1.x.x` จากนั้นปรับสเปคและเพิ่มตัวอย่างเป็น `v2`, `v3` โดยคงความเข้ากันย้อนหลัง
-````
